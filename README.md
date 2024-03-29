@@ -4,7 +4,7 @@
 
  *Mail: yashwanthm09@gmail.com*
  
- *_Acknowledgements: TCL Workshop by [Mr. Kunal Ghosh](https://github.com/kunalg123) , [VLSI System Design](https://www.vlsisystemdesign.com/)_*
+ *_Acknowledgements: SoC design Program by [Mr. Kunal Ghosh](https://github.com/kunalg123) , [VLSI System Design](https://www.vlsisystemdesign.com/)_*
 
  ## **Introduction**
 Hardware and software are used in SoC design to manage the CPU, peripherals, and interfaces. In an architectural co-design approach, a robust design workflow simultaneously creates hardware and software.
